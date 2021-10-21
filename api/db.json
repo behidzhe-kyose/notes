@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "title": "First note",
+      "description": "This is my first note",
+      "favorite": true,
+      "id": 1
+    },
+    {
+      "title": "Note #2",
+      "description": "Create your notes with long description, add to favorite list, edit and delete notes.",
+      "favorite": false,
+      "id": 2
+    }
+  ]
+}
