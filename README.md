@@ -1,5 +1,5 @@
 # Notes 
-## React CRUD project for notes
+React CRUD project for notes
 
 
 ## Installation
